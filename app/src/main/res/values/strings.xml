@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">UseCase10</string>
+
+    <string name="hint_text">Enter string for check</string>
+    <string name="hint_size">Enter max number of characters</string>
+
+    <string name="button_check">Check</string>
+
+    <string name="result_true">Match</string>
+    <string name="result_false">Non-match</string>
 </resources>
