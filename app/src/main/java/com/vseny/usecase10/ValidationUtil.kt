@@ -2,7 +2,7 @@ package com.vseny.usecase10
 
 object ValidationUtil {
 
-    private const val specialCharsList = """!"#$%&'()*+,-./:;<=>?@\[\\\]^_`{|}~"""
+    private const val specialCharsList = """!"#$%&'()*+,-\./:;<=>?@\[\\\]^_`{|}~"""
 
     private const val charsQuantityRegexPattern = "{0,}"
 
